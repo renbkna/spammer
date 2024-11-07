@@ -9,7 +9,7 @@ A configurable text spammer that allows you to automate repetitive messages with
 - Start and stop spamming with global hotkeys (Enter to start, Escape to stop)
 
 ## Requirements
-- .NET Framework (version X.X or later)
+- .NET Framework (version 4.X or later)
 - Administrator privileges may be required for global hotkey detection
 
 ## Installation
