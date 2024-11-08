@@ -1,6 +1,6 @@
 # Text Spammer
 
-A configurable text spammer that allows you to automate repetitive messages with adjustable settings for message content, frequency, and delay.
+A configurable text spammer that allows you to automate repetitive messages with adjustable settings for message content, frequency and delay.
 
 ## Features
 - Customizable spam message
